@@ -1,13 +1,13 @@
 {
-  "name": "tournament update",
-  "version": "1.0.0",
-  "description": "My second Discord Bot",
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
   "main": "bot.js",
-  "author": "Your Name",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
-    "discord.js": "^11.4.2",
-    "save": "^2.3.3",
-    "winston": "^3.2.1"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
