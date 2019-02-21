@@ -45,8 +45,8 @@ smashgg.getTournament('to12')
 .catch(error => {
     console.error('An error occurred: ', error);
 })
-    	
-		// message.reply(bscmsg + map + pnmbf);
+    	var hello = 'hello';
+		message.reply(hello);
 
 				  	}
 });
